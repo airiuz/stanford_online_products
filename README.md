@@ -11,7 +11,7 @@ FeaturesDict({
 ![image](images/standford.png)
 ## Clone recursively
 ``` shell
-git clone https://github.com/yahyoxonqwe/stanford_online_products.git
+git clone https://github.com/airiuz/stanford_online_products.git
 ```
 ## Enter this file
 ``` shell
